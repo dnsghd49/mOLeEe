@@ -1,7 +1,11 @@
+import Mole from "../Mole"
+import "./style.css"
+
 function MoleContainer() {
     return (
-        <div>
+        <div className="container">
             <h1>MOLE</h1>
+            <Mole />
         </div>
     )
 }
