@@ -25,7 +25,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>React-a-Mole!</h1>
+      <h1>Budget-cut Aim Lap</h1>
       {score}
       {createMoleHill()}
     </div>
