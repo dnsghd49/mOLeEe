@@ -12,7 +12,7 @@ HIT DA MOLE YO
 
 ## Screenshot
 
-![ScreenShot](https://raw.github.com/dnsghd49/mOLeEe/mOLeEe/blob/main/public/screenshot.png)
+![ScreenShot](https://github.com/dnsghd49/mOLeEe/mOLeEe/blob/main/public/screenshot.png)
 
 ## Installation
 
